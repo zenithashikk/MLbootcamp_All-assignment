@@ -1,6 +1,6 @@
 # Assignment 3.2: Data Manipulation with Pandas
 
-## Overview
+
 This assignment focuses on practicing data manipulation techniques using Python's Pandas library.
 
 ## Topics Covered
